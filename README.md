@@ -53,13 +53,13 @@ Clone or copy this repository into your personal skills folder, using `brandevoo
 **Windows (PowerShell)**
 
 ```powershell
-git clone https://github.com/<your-account>/brandevoort-guest-players.git "$env:USERPROFILE\.copilot\skills\brandevoort-guest-players"
+git clone https://github.com/janjaapko/brandevoort-guest-players.git "$env:USERPROFILE\.copilot\skills\brandevoort-guest-players"
 ```
 
 **macOS / Linux**
 
 ```bash
-git clone https://github.com/<your-account>/brandevoort-guest-players.git ~/.copilot/skills/brandevoort-guest-players
+git clone https://github.com/janjaapko/brandevoort-guest-players.git ~/.copilot/skills/brandevoort-guest-players
 ```
 
 To make the skill available only in a specific repository, place it in that repository at `.github/skills/brandevoort-guest-players/` instead.
